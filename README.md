@@ -3,5 +3,11 @@ An Online Exam platform for Students, where teachers can add questions and stude
 
 # Install Openjdk
 ```
-sudo apt-get install openjdk-7-jdk
+$ sudo apt-get install openjdk-7-jdk
 ```
+
+# Install Postgres SQL
+```
+$ sudo apt-get install postgresql pgadmin3
+```
+
