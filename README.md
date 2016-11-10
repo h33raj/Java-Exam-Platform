@@ -10,4 +10,11 @@ $ sudo apt-get install openjdk-7-jdk
 ```
 $ sudo apt-get install postgresql pgadmin3
 ```
+# Create Database 
+```
+$ sudo -u postgres psql postgres
+# create database java;
+```
+
+
 
